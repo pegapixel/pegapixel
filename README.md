@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm PegaPixel 👋
 
-<!--
-**pegapixel/pegapixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Shopify Developer · E-commerce · Software · Automation
 
-Here are some ideas to get you started:
+I build Shopify stores, custom e-commerce experiences, developer tools, and automation workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Work With
+
+- 🛍️ Shopify & Shopify Plus
+- 🎨 Liquid, HTML, CSS & JavaScript
+- ⚡ Shopify Themes & Customizations
+- 🔌 Shopify APIs & Integrations
+- 🤖 AI & Developer Automation
+- 🧩 Web Applications & Developer Tools
+
+### Currently Exploring
+
+- AI-powered development workflows
+- Developer productivity and automation
+- Scalable e-commerce solutions
+- Building useful digital products
+
+### My Philosophy
+
+I enjoy turning ideas into practical solutions through clean code, thoughtful engineering, and continuous experimentation.
+
+---
+
+**PegaPixel** — Building better digital experiences.
+
+🌐 [pegapixel.xyz](https://pegapixel.xyz)
